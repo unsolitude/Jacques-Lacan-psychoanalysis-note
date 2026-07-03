@@ -2,21 +2,14 @@
 Thumbs.db
 desktop.ini
 
-# Dependencies and build output
+# Local dependency folders
 node_modules/
-.pnpm-store/
-public/
-build-content/
-.quartz-cache/
-.quartz/
-tsconfig.tsbuildinfo
 npm-debug.log*
 pnpm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
 # Local/editor state
-.codex-quartz-template/
 .idea/
 .vscode/
 
