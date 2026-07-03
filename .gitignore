@@ -1,0 +1,31 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies and build output
+node_modules/
+.pnpm-store/
+public/
+build-content/
+.quartz-cache/
+.quartz/
+tsconfig.tsbuildinfo
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local/editor state
+.codex-quartz-template/
+.idea/
+.vscode/
+
+# Obsidian local state that frequently conflicts across machines
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+.obsidian/trash/
+
+# Private notes can live locally without being published
+private/
