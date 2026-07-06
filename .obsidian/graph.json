@@ -6,7 +6,15 @@
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "想象界-象征界-实在界",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -14,9 +22,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 18.8518518518519,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8854989543150429,
+  "scale": 0.27268599173600705,
   "close": true
 }
